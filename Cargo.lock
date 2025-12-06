@@ -26,9 +26,9 @@ checksum = "877a4ace8713b0bcf2a4e7eec82529c029f1d0619886d18145fea96c3ffe5c0f"
 
 [[package]]
 name = "genetica"
-version = "1.0.0"
+version = "1.0.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "a8265b7df7fe3bc0c47323592ba93d8dbdac3e716b3de49a7416111b8e74f6fd"
+checksum = "e50d63121ac08e325bb84b372b0a927e177f1224226bb0ad787b97e3dcff68b7"
 dependencies = [
  "rand",
 ]
